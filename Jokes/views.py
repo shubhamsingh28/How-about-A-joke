@@ -15,10 +15,10 @@ def home(request):
     if jokes['type'] == "single":
         joke = jokes['joke']
     else:
-        joke = 'Binod:  '
+        joke += 'Abhinav:  '
         joke += jokes['setup']
-        joke += '\n \n'
-        joke += 'Carry:  '
+        joke += '\n'
+        joke += 'Shreya:  '
         joke += jokes['delivery']
     template = loader.get_template('joke_home.html')
     context = {
