@@ -18,6 +18,10 @@ python manage.py runserver
 Hola!! You are all ready to go!!
 Enjoy different jokes with different funny bakground at each refresh.
 
+## Too lazy to run, want to hear a joke :point_down:
+
+ [Cool App](https://jokes-droopy.herokuapp.com/)
+
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
