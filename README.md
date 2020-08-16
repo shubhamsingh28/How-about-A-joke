@@ -20,7 +20,7 @@ Enjoy different jokes with different funny bakground at each refresh.
 
 ## Too lazy to run, want to hear a joke :point_down:
 
- [Cool App](https://jokes-droopy.herokuapp.com/)
+ [App](https://jokes-droopy.herokuapp.com/)
 
 
 ## Contributing
